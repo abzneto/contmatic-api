@@ -20,7 +20,7 @@ public class FavoritePhoneDao implements FavoritePhoneRepository {
 		this.session = session;
 	}
 
-	public List<FavoritePhone> load() {
+	public List<FavoritePhone> list() {
 		// TODO Auto-generated method stub
 		return null;
 	}
